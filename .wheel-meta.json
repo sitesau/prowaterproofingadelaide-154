@@ -1,0 +1,22 @@
+{
+  "wheel_id": 915,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-154",
+  "project": "waterproofing-contractors-adelaide-common-mistakes-7b5967d4a02b",
+  "parent_t1_ref": "prowaterproofingadelaide-013",
+  "node_role": "buffer",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing contractors adelaide common mistakes",
+  "intended_url": "http://waterproofing-contractors-adelaide-common-mistakes-7b5967d4a02b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "9e2942f67de5b656",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/waterproofing-contractors-adelaide-013/",
+      "anchor": "Waterproofing Contractors Adelaide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
